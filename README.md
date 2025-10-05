@@ -1,4 +1,4 @@
-# Pomodoro Timer
+# Pomodoro Timer v2
 
 A modern **Pomodoro Timer** built using `CustomTkinter`, featuring
 animations, motivational quotes, a dynamic layout switch
