@@ -93,6 +93,15 @@ Here's a demo screenshot of the final UI
 
 ------------------------------------------------------------------------
 
+## Improvements from v1
+
+- Added a layout taggle button. Quick switch from horizontal mode to vertical view.
+- Added a quick preset option for quick start.
+- Minimalist color collocation and UI design improvements.
+- Working on auto-tiling of buttons and UI components.
+  
+------------------------------------------------------------------------
+
 ## 🧠 Future Improvements
 
 - Add Spotify embedding
@@ -100,4 +109,4 @@ Here's a demo screenshot of the final UI
 - Unique UI look with a cyberpunk theme?!?
 - Better animations, futuristic UI
 - Improve button feel & placement.
-- UI changes significantly when switching from horizontal & vertical mode
+- UI changes significantly when switching from horizontal to vertical mode
